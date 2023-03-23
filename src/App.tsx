@@ -1,8 +1,7 @@
-import React from "react";
-import "./App.css";
+import { Sidebar } from "./sidebars/sidebar-7/Sidebar";
 
 function App() {
-  return <div className="App"></div>;
+  return <Sidebar />;
 }
 
 export default App;
